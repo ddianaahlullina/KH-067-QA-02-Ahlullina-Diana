@@ -1,2 +1,8 @@
+# local macOS files
 .DS_Store
+# Log file
 .log
+# idea
+.idea
+*.iml
+
