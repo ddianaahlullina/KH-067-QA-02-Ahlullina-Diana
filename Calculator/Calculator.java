@@ -3,7 +3,7 @@ public class Calculator {
     public static void main(String[] args) {
         double firstNumber = 0.0;
         double secondNumber = 0.0;
-        char operator = '+';
+        char operator = ' ';
         Double answer = null;
         Scanner sc = new Scanner(System.in);
         System.out.println("Hello. Please, enter first number");
