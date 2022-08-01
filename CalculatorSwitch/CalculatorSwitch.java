@@ -1,10 +1,10 @@
 import java.util.Scanner;
 public class CalculatorSwitch {
     public static void main(String[] args) {
-        double firstNumber = 0.0;
-        double secondNumber = 0.0;
+        double firstNumber;
+        double secondNumber;
         char operator = ' ';
-        double result =0.0;
+        double result;
         Scanner sc = new Scanner(System.in);
         System.out.println("Hello. Please, enter first number");
         try {
